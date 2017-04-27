@@ -1,7 +1,7 @@
 # reusable-state-journey
 Journey through a variety of reusable state tactics for React.
 
-Managing state is hard. When you need to make that state 100% portable and allow users to interact with easily, things get even harder.  In the following codepen and storybook examples, you'll see incremental progress made in bite-size steps towards 100% component reusability, along with a few new tools and concepts that may help you on your way. For a more thorough introduction on why this should be important to you, take a look at the readme from [Reusable Components with Redux](https://github.com/tannerlinsley/reusable-components-with-redux).
+Managing state is hard. When you need to make that state 100% portable and allow users to interact with easily, things get even harder.  In the following codepen and storybook examples, you'll see incremental progress made in bite-size steps towards 100% component reusability, along with a few new tools and concepts that may help you on your way. For a more thorough introduction on why this should be important to you, take a look at the readme from [Reusable Components with Redux](https://github.com/tannerlinsley/reusable-state-journey#which-should-i-use).
 
 ## setState, hoisting state & controlled components
 - [Intro to setState](https://codepen.io/tannerlinsley/pen/rmjOaQ?editors=0010)
