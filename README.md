@@ -15,7 +15,8 @@ Managing state is hard. When you need to make that state 100% portable and allow
 
 ## setState vs React-State for shared & deep props/callbacks, performance
 
-- [Props & Callback Hell](https://codepen.io/tannerlinsley/pen/vmgGLP?editors=0010)
+- [Props & Callbacks](https://codepen.io/tannerlinsley/pen/vmgGLP?editors=0010)
+- [Props & Callback Hell](https://codepen.io/tannerlinsley/pen/RVLRBv?editors=0010)
 - [Props & Callback Heaven](https://codepen.io/tannerlinsley/pen/zwNqbM?editors=0010)
 - [React-State](https://github.com/tannerlinsley/react-state)
 
