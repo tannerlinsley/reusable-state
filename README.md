@@ -8,7 +8,6 @@ Managing state is hard. When you need to make that state 100% portable and allow
 - [Pure setState functions](https://codepen.io/tannerlinsley/pen/LyzZZO?editors=0010)
 - [setState middleware & logging](https://codepen.io/tannerlinsley/pen/bWgVWa?editors=0011)
 - [Reusable state && debugging](https://codepen.io/tannerlinsley/pen/JNEYMd?editors=0011)
-- [Reusable state && debugging pt. 2](https://codepen.io/tannerlinsley/pen/xdgVbW?editors=0011)
 - [Programmatically Hoisting state](https://codepen.io/tannerlinsley/pen/OmWyqZ?editors=0011)
 - [Controlled component state](https://codepen.io/tannerlinsley/pen/oWBbop?editors=0011)
 - [Dynamic state (isolated, hoisting or controlled)](https://codepen.io/tannerlinsley/pen/OmWMLE?editors=0011)
