@@ -5,7 +5,7 @@ Managing state is hard. When you need to make that state 100% portable and allow
 
 ## setState, hoisting state & controlled components
 - [Intro to setState](https://codepen.io/tannerlinsley/pen/rmjOaQ?editors=0010)
-- [Pure setState functions](https://codepen.io/tannerlinsley/pen/rmjOaQ?editors=0010)
+- [Pure setState functions](https://codepen.io/tannerlinsley/pen/LyzZZO?editors=0010)
 - [setState middleware & logging](https://codepen.io/tannerlinsley/pen/bWgVWa?editors=0011)
 - [Reusable state && debugging](https://codepen.io/tannerlinsley/pen/JNEYMd?editors=0011)
 - [Reusable state && debugging pt. 2](https://codepen.io/tannerlinsley/pen/xdgVbW?editors=0011)
