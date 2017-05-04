@@ -22,8 +22,7 @@ Managing state is hard. When you need to make that state 100% portable and allow
 
 ## Reusable Redux
 
-- [Counter Example](https://codepen.io/tannerlinsley/pen/YVNWap?editors=0011)
-- [Counter Repo](https://github.com/tannerlinsley/reusable-components-with-redux)
+- [Reusable Redux Counter](https://codepen.io/tannerlinsley/pen/YVNWap?editors=0011)
 
 ## Which should I use?
 
