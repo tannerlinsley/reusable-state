@@ -11,7 +11,7 @@ Managing state is hard. When you need to make that state 100% portable and allow
 - [Programmatically Hoisting state](https://codepen.io/tannerlinsley/pen/OmWyqZ?editors=0011)
 - [Controlled component state](https://codepen.io/tannerlinsley/pen/oWBbop?editors=0011)
 - [Dynamic state (isolated, hoisting or controlled)](https://codepen.io/tannerlinsley/pen/OmWMLE?editors=0011)
-- [React-Table, a dynamic state example)](http://codepen.io/tannerlinsley/pen/QpeZBa?editors=0010)
+- [React-Table - Dynamic State in the wild](http://codepen.io/tannerlinsley/pen/QpeZBa?editors=0010)
 
 ## setState vs React-State for shared & deep props/callbacks, performance
 
